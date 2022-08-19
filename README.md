@@ -29,9 +29,13 @@ The p-values from the t-test of Lots 1 and 2 are above our assumed significance 
 
 ## 4. Study Design: MechaCar vs Competition
 
-### 4.1 Highway fuel efficiency is a metric looked at when purchasing a car. Therefore, a statistical design using highway fuel efficiency as the dependent variable recorded from multiple car brands of the same vehicle class would be an apt study. 
+### 4.1 Metric
 
-### 4.2 Null Hypothesis (H0): The mean highway fuel efficiency of all cars from the same category is equal
+Highway fuel efficiency is a metric looked at when purchasing a car. Therefore, a statistical design using highway fuel efficiency as the dependent variable recorded from multiple car brands of the same vehicle class would be an apt study. 
+
+### 4.2 Null Hypothesis (H0): 
+
+The mean highway fuel efficiency of all cars from the same category is equal
 
 ### 4.3 Test selection and Data required :
 
